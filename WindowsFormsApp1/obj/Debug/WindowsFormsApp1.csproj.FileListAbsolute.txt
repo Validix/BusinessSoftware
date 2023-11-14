@@ -1,0 +1,113 @@
+C:\Users\HP\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\HP\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\HP\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\HP\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\HP\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\HP\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\HP\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\HP\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\HP\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.MyUserControl.resources
+C:\Users\HP\Desktop\New folder\Custom dynamic user control with event handler C# WinForm\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\HP\Desktop\New folder\Custom dynamic user control with event handler C# WinForm\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\HP\Desktop\New folder\Custom dynamic user control with event handler C# WinForm\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\HP\Desktop\New folder\Custom dynamic user control with event handler C# WinForm\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\HP\Desktop\New folder\Custom dynamic user control with event handler C# WinForm\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\HP\Desktop\New folder\Custom dynamic user control with event handler C# WinForm\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form2.resources
+C:\Users\HP\Desktop\New folder\Custom dynamic user control with event handler C# WinForm\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\HP\Desktop\New folder\Custom dynamic user control with event handler C# WinForm\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.MyUserControl.resources
+C:\Users\HP\Desktop\New folder\Custom dynamic user control with event handler C# WinForm\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\New folder\Custom dynamic user control with event handler C# WinForm\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\New folder\Custom dynamic user control with event handler C# WinForm\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\HP\Desktop\New folder\Custom dynamic user control with event handler C# WinForm\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Aaric\Desktop\New folder\Custom dynamic user control with event handler WITH DATABASE\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Aaric\Desktop\New folder\Custom dynamic user control with event handler WITH DATABASE\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Aaric\Desktop\New folder\Custom dynamic user control with event handler WITH DATABASE\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Aaric\Desktop\New folder\Custom dynamic user control with event handler WITH DATABASE\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\EntityFramework.dll
+C:\Users\Aaric\Desktop\New folder\Custom dynamic user control with event handler WITH DATABASE\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Aaric\Desktop\New folder\Custom dynamic user control with event handler WITH DATABASE\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Data.SQLite.dll
+C:\Users\Aaric\Desktop\New folder\Custom dynamic user control with event handler WITH DATABASE\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Aaric\Desktop\New folder\Custom dynamic user control with event handler WITH DATABASE\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Aaric\Desktop\New folder\Custom dynamic user control with event handler WITH DATABASE\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\EntityFramework.xml
+C:\Users\Aaric\Desktop\New folder\Custom dynamic user control with event handler WITH DATABASE\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Aaric\Desktop\New folder\Custom dynamic user control with event handler WITH DATABASE\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Data.SQLite.xml
+C:\Users\Aaric\Desktop\New folder\Custom dynamic user control with event handler WITH DATABASE\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\Aaric\Desktop\New folder\Custom dynamic user control with event handler WITH DATABASE\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Aaric\Desktop\New folder\Custom dynamic user control with event handler WITH DATABASE\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\Aaric\Desktop\New folder\Custom dynamic user control with event handler WITH DATABASE\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form2.resources
+C:\Users\Aaric\Desktop\New folder\Custom dynamic user control with event handler WITH DATABASE\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Aaric\Desktop\New folder\Custom dynamic user control with event handler WITH DATABASE\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.MyUserControl.resources
+C:\Users\Aaric\Desktop\New folder\Custom dynamic user control with event handler WITH DATABASE\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\Aaric\Desktop\New folder\Custom dynamic user control with event handler WITH DATABASE\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Aaric\Desktop\New folder\Custom dynamic user control with event handler WITH DATABASE\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+C:\Users\Aaric\Desktop\New folder\Custom dynamic user control with event handler WITH DATABASE\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Aaric\Desktop\New folder\Custom dynamic user control with event handler WITH DATABASE\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Aaric\Desktop\New folder\Custom dynamic user control with event handler WITH DATABASE\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.LoginForm.resources
+C:\Users\Aaric\Desktop\New folder\Custom dynamic user control with event handler WITH DATABASE\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.OrderNumberForm.resources
+C:\Users\Aaric\Desktop\New folder\Custom dynamic user control with event handler WITH DATABASE\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.AdminForm.resources
+C:\Users\Aaric\Desktop\New folder\Custom dynamic user control with event handler WITH DATABASE\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ManageProuctsForm.resources
+C:\Users\Aaric\Desktop\New folder\Custom dynamic user control with event handler WITH DATABASE\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ManageOrdersForm.resources
+C:\Users\Aaric\Desktop\New folder\Custom dynamic user control with event handler WITH DATABASE\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.SaleForm.resources
+C:\Users\Aaric\Desktop\New folder\Custom dynamic user control with event handler WITH DATABASE\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.UsersForm.resources
+C:\Users\Aaric\Desktop\New folder\Custom dynamic user control with event handler WITH DATABASE\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.StockOrderForm.resources
+C:\Users\cpars\Desktop\Inventory Management Software\Custom dynamic user control with event handler WITH DATABASE\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\cpars\Desktop\Inventory Management Software\Custom dynamic user control with event handler WITH DATABASE\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+C:\Users\cpars\Desktop\Inventory Management Software\Custom dynamic user control with event handler WITH DATABASE\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.AdminForm.resources
+C:\Users\cpars\Desktop\Inventory Management Software\Custom dynamic user control with event handler WITH DATABASE\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\cpars\Desktop\Inventory Management Software\Custom dynamic user control with event handler WITH DATABASE\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form2.resources
+C:\Users\cpars\Desktop\Inventory Management Software\Custom dynamic user control with event handler WITH DATABASE\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.LoginForm.resources
+C:\Users\cpars\Desktop\Inventory Management Software\Custom dynamic user control with event handler WITH DATABASE\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ManageOrdersForm.resources
+C:\Users\cpars\Desktop\Inventory Management Software\Custom dynamic user control with event handler WITH DATABASE\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ManageProuctsForm.resources
+C:\Users\cpars\Desktop\Inventory Management Software\Custom dynamic user control with event handler WITH DATABASE\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.OrderNumberForm.resources
+C:\Users\cpars\Desktop\Inventory Management Software\Custom dynamic user control with event handler WITH DATABASE\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.MyUserControl.resources
+C:\Users\cpars\Desktop\Inventory Management Software\Custom dynamic user control with event handler WITH DATABASE\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.SaleForm.resources
+C:\Users\cpars\Desktop\Inventory Management Software\Custom dynamic user control with event handler WITH DATABASE\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.StockOrderForm.resources
+C:\Users\cpars\Desktop\Inventory Management Software\Custom dynamic user control with event handler WITH DATABASE\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.UsersForm.resources
+C:\Users\cpars\Desktop\Inventory Management Software\Custom dynamic user control with event handler WITH DATABASE\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\cpars\Desktop\Inventory Management Software\Custom dynamic user control with event handler WITH DATABASE\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\cpars\Desktop\Inventory Management Software\Custom dynamic user control with event handler WITH DATABASE\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\cpars\Desktop\Inventory Management Software\Custom dynamic user control with event handler WITH DATABASE\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\cpars\Desktop\Inventory Management Software\Custom dynamic user control with event handler WITH DATABASE\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\cpars\Desktop\Inventory Management Software\Custom dynamic user control with event handler WITH DATABASE\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\cpars\Desktop\Inventory Management Software\Custom dynamic user control with event handler WITH DATABASE\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\EntityFramework.dll
+C:\Users\cpars\Desktop\Inventory Management Software\Custom dynamic user control with event handler WITH DATABASE\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\cpars\Desktop\Inventory Management Software\Custom dynamic user control with event handler WITH DATABASE\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Data.SQLite.dll
+C:\Users\cpars\Desktop\Inventory Management Software\Custom dynamic user control with event handler WITH DATABASE\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\cpars\Desktop\Inventory Management Software\Custom dynamic user control with event handler WITH DATABASE\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\cpars\Desktop\Inventory Management Software\Custom dynamic user control with event handler WITH DATABASE\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\EntityFramework.xml
+C:\Users\cpars\Desktop\Inventory Management Software\Custom dynamic user control with event handler WITH DATABASE\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\cpars\Desktop\Inventory Management Software\Custom dynamic user control with event handler WITH DATABASE\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Data.SQLite.xml
+C:\Users\cpars\Desktop\Inventory Management Software\Custom dynamic user control with event handler WITH DATABASE\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\cpars\Desktop\Inventory Management Software\Custom dynamic user control with event handler WITH DATABASE\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\cpars\Desktop\Inventory Management Software\Custom dynamic user control with event handler WITH DATABASE\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+C:\Users\cpars\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\cpars\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\cpars\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\cpars\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\EntityFramework.dll
+C:\Users\cpars\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\cpars\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Data.SQLite.dll
+C:\Users\cpars\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\cpars\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\cpars\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\EntityFramework.xml
+C:\Users\cpars\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\cpars\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Data.SQLite.xml
+C:\Users\cpars\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\cpars\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+C:\Users\cpars\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.AdminForm.resources
+C:\Users\cpars\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\cpars\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form2.resources
+C:\Users\cpars\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.LoginForm.resources
+C:\Users\cpars\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ManageOrdersForm.resources
+C:\Users\cpars\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ManageProuctsForm.resources
+C:\Users\cpars\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.OrderNumberForm.resources
+C:\Users\cpars\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\cpars\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.MyUserControl.resources
+C:\Users\cpars\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.SaleForm.resources
+C:\Users\cpars\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.StockOrderForm.resources
+C:\Users\cpars\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.UsersForm.resources
+C:\Users\cpars\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\cpars\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\cpars\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+C:\Users\cpars\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\cpars\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
